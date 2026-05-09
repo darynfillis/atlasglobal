@@ -42,3 +42,11 @@ If a custom domain is added later, replace it in:
 - Confirm form detection after deploy.
 - Add final custom domain.
 - Submit sitemap to Google Search Console after launch.
+
+
+## Insights Section Added
+
+- insights.html
+- Five starter SEO articles under /insights/
+- Footer link added
+- Sitemap and redirects updated

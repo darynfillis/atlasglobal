@@ -10,5 +10,13 @@
 /accessibility      /accessibility.html      200
 /terms-of-use       /terms-of-use.html       200
 
+
+/insights           /insights.html           200
+/insights/what-is-apparel-sourcing-from-asia /insights/what-is-apparel-sourcing-from-asia.html 200
+/insights/what-to-prepare-before-requesting-an-apparel-quote /insights/what-to-prepare-before-requesting-an-apparel-quote.html 200
+/insights/tech-pack-vs-reference-sample /insights/tech-pack-vs-reference-sample.html 200
+/insights/fabric-sourcing-from-asia-for-companies-producing-in-mexico /insights/fabric-sourcing-from-asia-for-companies-producing-in-mexico.html 200
+/insights/private-label-apparel-sourcing-what-buyers-should-know /insights/private-label-apparel-sourcing-what-buyers-should-know.html 200
+
 # 404 fallback
 /* /404.html 404
