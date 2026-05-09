@@ -1,0 +1,14 @@
+# Netlify redirects
+/about              /about.html              200
+/services           /services.html           200
+/process            /process.html            200
+/product-categories /product-categories.html 200
+/start-a-project    /start-a-project.html    200
+/faq                /faq.html                200
+/links              /links.html              200
+/privacy-policy     /privacy-policy.html     200
+/accessibility      /accessibility.html      200
+/terms-of-use       /terms-of-use.html       200
+
+# 404 fallback
+/* /404.html 404
