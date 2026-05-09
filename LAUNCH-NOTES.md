@@ -50,3 +50,8 @@ If a custom domain is added later, replace it in:
 - Five starter SEO articles under /insights/
 - Footer link added
 - Sitemap and redirects updated
+
+
+## Hero Video
+
+Optimized hero video and poster image added. See HERO-VIDEO-NOTES.md.

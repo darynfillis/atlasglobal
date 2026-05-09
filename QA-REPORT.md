@@ -39,3 +39,21 @@
 - Add final hero video at assets/video/hero-video.mp4.
 - Confirm Netlify form detection after deploy.
 - Legal review for Privacy Policy, Accessibility, and Terms of Use.
+
+
+## Footer Insights Link Check
+- Pages updated: 18
+- Missing Insights footer link on:
+  - logo-preview.html
+
+
+## Insights Article Expansion
+- Five Insights articles expanded into long-form editorial pages.
+- Article pages now use a full article layout with lede, pullquote, body sections, sidebar CTA, and key takeaways.
+
+
+## Insights Image Placeholders
+- Added hero image placeholders to all five article pages.
+- Added two inline editorial image placeholders per article.
+- Added thumbnail-style placeholders on the Insights index cards.
+- These are designed to be replaced with final editorial photography.
