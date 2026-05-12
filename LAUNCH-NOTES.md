@@ -228,4 +228,8 @@ Optimized hero video and poster image added. See HERO-VIDEO-NOTES.md.
 
 - Updated dark-background logo treatment to a clean beige-and-copper embroidered version matching the approved threaded style.
 
-- Added Ashok to the About page as Founder and CEO of Atlas Global, with a new professional profile image.
+- Added Ashok Mahtani to the About page as Founder and CEO of Atlas Global, with a new professional profile image.
+
+- Updated Marian Garci-Crespo’s title to Principal, Marketing and Project Director.
+
+- Updated Ashok’s name to Ashok Mahtani across site materials.
