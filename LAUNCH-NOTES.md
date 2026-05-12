@@ -225,3 +225,7 @@ Optimized hero video and poster image added. See HERO-VIDEO-NOTES.md.
 - Updated the About page hero image to feature Marian and Rebecca together in coordinated seasonal outfits.
 - Replaced Rebecca's website profile image with the new warm-toned portrait.
 - Updated Rebecca's email image asset to match the new on-brand portrait.
+
+- Updated dark-background logo treatment to a clean beige-and-copper embroidered version matching the approved threaded style.
+
+- Added Ashok to the About page as Founder and CEO of Atlas Global, with a new professional profile image.

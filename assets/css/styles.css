@@ -3204,3 +3204,19 @@ header .site-logo img.approved-logo-img {
 .site-footer .footer-logo {
   display: none !important;
 }
+
+
+/* Leadership team update */
+.team-grid-leadership {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.team-card-founder {
+  border-color: rgba(183, 130, 74, 0.35);
+}
+
+@media (max-width: 980px) {
+  .team-grid-leadership {
+    grid-template-columns: 1fr;
+  }
+}
